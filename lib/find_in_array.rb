@@ -5,6 +5,7 @@ def find_element_index(array, value_to_find)
   if array.include?(value_to_find) == true do
     return array.index(value_to_find)
   end
-  elseif puts not_found
+  elseif 
+    puts not_found
   end
 end
