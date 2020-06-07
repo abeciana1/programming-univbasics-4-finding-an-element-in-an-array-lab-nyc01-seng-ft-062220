@@ -2,6 +2,8 @@ def find_element_index(array, value_to_find)
 
   not_found = nil
   
-  array.include?
+  if array.include?(value_to_find) == true do
+    
+  end
   
 end
